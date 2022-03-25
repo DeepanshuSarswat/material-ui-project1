@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "Life & Rules",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "Money",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesm Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "Life & Rules",
+      "id": 3
+    },
+    {
+      "title": "india",
+      "details": "India, officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar and Indonesia",
+      "category": "Other",
+      "id": 4
+    },
+    {
+      "title": "Ratan Tata",
+      "details": "Ratan Naval Tata (born 28 December 1937) is an Indian industrialist, philanthropist, and a former chairman of Tata Sons. He was also chairman of Tata Group, from 1990 to 2012, and again, as interim chairman, from October 2016 through February 2017, and continues to head its charitable trusts.[3][4] He is the recipient of two of the highest civilian awards of India, the Padma Vibhushan (2008) and Padma Bhushan (2000).[5]\n\nBorn in 1937, he is a scion of the Tata family, and son of Naval Tata who was later adopted by Ratanji Tata, son of Jamsetji Tata, the founder of Tata Group. He is an alumnus of the Cornell University College of Architecture and Harvard Business School through the Advanced Management Program that he completed in 1975.[6] He joined his company in 1961 when he used to work on the shop floor of Tata Steel, and was the apparent successor to J. R. D. Tata upon the latter's retirement in 1991. He got Tata Tea to acquire Tetley, Tata Motors to acquire Jaguar Land Rover, and Tata Steel to acquire Corus, in an attempt to turn Tata from a largely India-centrist group into a global business.",
+      "category": "Money",
+      "id": 5
+    },
+    {
+      "title": "J. R. D. Tata",
+      "details": "Jehangir Ratanji Dadabhoy Tata (29 July 1904 – 29 November 1993) was an Indian aviator, industrialist, entrepreneur and chairman of Tata Group.\n\nBorn into the Tata family of India, he was the son of noted businessman Ratanji Dadabhoy Tata and his wife Suzanne Brière. His mother was the first woman in India to drive a car and, in 1929, he became the first licensed pilot in India. He is also best known for being the founder of several industries under the Tata Group, including Tata Consultancy Services, Tata Motors, Titan Industries, Tata Salt, Voltas and Air India. In 1983, he was awarded the French Legion of Honour and in 1955 and 1992, he received two of India's highest civilian awards the Padma Vibhushan and the Bharat Ratna. These honours were bestowed on him for his contributions to Indian industry.[1]",
+      "category": "Life & Rules",
+      "id": 6
+    },
+    {
+      "title": "Mukesh Ambani",
+      "details": "Mukesh Dhirubhai Ambani (born 19 April 1957) is an Indian billionaire businessman, and the chairman, managing director, and largest shareholder of Reliance Industries Ltd. (RIL), a Fortune Global 500 company and India's most valuable company by market value.[4] According to Forbes, he is the richest person in Asia with a net worth of US$78.6 billion[5] and the 13th richest person in the world, as of 9 July 2021",
+      "category": "Money",
+      "id": 7
+    },
+    {
+      "title": "Azim Premji",
+      "details": "Azim Hashim Premji (born 24 July 1945) is an Indian business tycoon, investor, engineer, and philanthropist, who was the chairman of Wipro Limited. Premji remains a non-executive member of the board and founder chairman.[4] He is informally known as the Czar of the Indian IT Industry.[5][6] He was responsible for guiding Wipro through four decades of diversification and growth, to finally emerge as one of the global leaders in the software industry.[7][8] In 2010, he was voted among the 20 most powerful men in the world by Asiaweek.[9] He has twice been listed among the 100 most influential people by Time magazine, once in 2004 and more recently in 2011.[10] For years, he has been regularly listed one among the 500 Most Influential Muslims.",
+      "category": "Other",
+      "id": 8
+    }
+  ]
+}
